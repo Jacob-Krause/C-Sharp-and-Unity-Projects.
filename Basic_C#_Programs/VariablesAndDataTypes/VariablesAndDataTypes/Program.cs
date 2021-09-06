@@ -4,12 +4,10 @@
     {
         static void Main()
         {
-        Console.ForegroundColor = ConsoleColor.Magenta;
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.Write("What is your name:  ");
-        Console.ForegroundColor = ConsoleColor.Cyan;
         string name = Console.ReadLine();
         Console.WriteLine();
-        Console.ForegroundColor = ConsoleColor.Green;
         Console.Write("What course are you on:  ");
         string course = Console.ReadLine();
         Console.WriteLine();

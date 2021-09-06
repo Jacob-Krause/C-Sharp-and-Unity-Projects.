@@ -5,3 +5,10 @@ C:\Users\JAK58\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataT
 C:\Users\JAK58\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
 C:\Users\JAK58\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
 C:\Users\JAK58\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.AssemblyReference.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb
