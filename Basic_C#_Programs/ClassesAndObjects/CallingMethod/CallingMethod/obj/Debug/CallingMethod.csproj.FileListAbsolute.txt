@@ -1,0 +1,7 @@
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe.config
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\CallingMethod\CallingMethod\bin\Debug\CallingMethod.pdb
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.AssemblyReference.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.CoreCompileInputs.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\CallingMethod\CallingMethod\obj\Debug\CallingMethod.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\CallingMethod\CallingMethod\obj\Debug\CallingMethod.pdb

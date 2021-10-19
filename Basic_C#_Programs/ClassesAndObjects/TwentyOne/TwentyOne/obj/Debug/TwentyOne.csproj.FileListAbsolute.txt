@@ -1,0 +1,7 @@
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
