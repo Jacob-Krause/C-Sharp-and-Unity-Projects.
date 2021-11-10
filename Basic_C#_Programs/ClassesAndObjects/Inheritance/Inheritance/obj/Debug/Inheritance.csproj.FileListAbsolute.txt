@@ -1,0 +1,6 @@
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
