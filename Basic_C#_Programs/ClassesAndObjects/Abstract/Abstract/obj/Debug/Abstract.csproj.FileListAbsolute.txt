@@ -1,0 +1,7 @@
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Abstract\Abstract\obj\Debug\Abstract.pdb
