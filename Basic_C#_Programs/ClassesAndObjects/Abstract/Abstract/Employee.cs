@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Abstract 
 {
-    class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         public int ID { get; set; }
+        public List<T> Things;
         public override void SayName()
         {
             Console.WriteLine("Name: {0} {1}", FirstName, LastName);
@@ -19,7 +20,7 @@ namespace Abstract
             Console.WriteLine("This Employee has resigned");
         }
 
-        public static bool operator == (Employee One, Employee Two)
+        public static bool operator == (Employee<T> One, Employee<T> Two)
         {
             if (One.ID == Two.ID)
             {
@@ -32,7 +33,7 @@ namespace Abstract
                 return false;
             }
         }
-        public static bool operator != (Employee One, Employee Two)
+        public static bool operator != (Employee<T> One, Employee<T> Two)
         {
             if (One.ID == Two.ID)
             {
