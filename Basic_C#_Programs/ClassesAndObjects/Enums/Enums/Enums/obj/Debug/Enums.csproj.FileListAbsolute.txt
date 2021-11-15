@@ -1,0 +1,7 @@
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Enums\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Enums\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Enums\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Enums\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Enums\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Enums\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\JAK58\Documents\GitHub\Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassesAndObjects\Enums\Enums\Enums\obj\Debug\Enums.pdb
