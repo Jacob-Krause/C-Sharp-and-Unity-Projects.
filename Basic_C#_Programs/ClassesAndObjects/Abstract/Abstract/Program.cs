@@ -12,6 +12,8 @@ namespace Abstract
         {
             Employee employee = new Employee();
             employee.SayName();
+            IQuittable iQuit = new Employee();
+            iQuit.Quit();
             Console.ReadLine();
         }
     }
