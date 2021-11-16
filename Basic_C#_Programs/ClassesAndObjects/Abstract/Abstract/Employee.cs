@@ -29,7 +29,7 @@ namespace Abstract
             }
             else
             {
-                Console.WriteLine("The ID's of these two emplyees are differnt.");
+                Console.WriteLine("The ID's of these two employees are differnt.");
                 return false;
             }
         }

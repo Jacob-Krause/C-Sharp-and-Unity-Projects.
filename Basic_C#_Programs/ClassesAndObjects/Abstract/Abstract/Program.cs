@@ -14,6 +14,10 @@ namespace Abstract
             Employee<string> employee2 = new Employee<string>() { ID = 2, FirstName = "Megan", LastName = "Sakauye" };
             employee1.SayName();
             employee2.SayName();
+            List<Employee<string>> employees = new List<Employee<string>>()
+            {employee1,employee2 };
+
+            bool compare = employee2 == employee1;
 
             Employee<string> newString = new Employee<string>();
             Employee<int> newInt = new Employee<int>();
@@ -35,6 +39,21 @@ namespace Abstract
                     Console.Write("\n\n");
                 }
                 kk--;
+            }
+            int jj = newInt.Things.Count;
+
+            foreach (int stuffs in newInt.Things)
+            {
+                Console.Write(stuffs);
+                if (jj > 1)
+                {
+                    Console.Write("\n");
+                }
+                else
+                {
+                    Console.Write("\n\n");
+                }
+                jj--;
             }
 
             //For when an employee quits
