@@ -57,6 +57,12 @@ namespace Lambda
             {
                 Console.WriteLine("{0} {1}",  employee.FirstName, employee.LastName);
             }
+            Console.WriteLine("\nEvry employee with an ID above 5 using a lambda function:");
+            List<Employee<string>> IdAboveFive = employees.Where(x => x.ID > 5).ToList();
+            foreach (Employee<string> employee in IdAboveFive)
+            {
+                Console.WriteLine("{0} {1} {2}", employee.FirstName, employee.LastName, employee.ID);
+            }
             Console.WriteLine("");
             //bool compare = employee2 == employee1;
             //bool compare2 = employee9 == employee8;
