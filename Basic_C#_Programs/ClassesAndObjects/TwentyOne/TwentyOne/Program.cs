@@ -10,6 +10,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            DateTime yearOfBirth = new DateTime(1997, 7, 4, 00, 15, 00);
             Console.WriteLine("Welcome to the Grand Hotel and Casino. To start please tell us your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money have you brought to gamble with today?");
